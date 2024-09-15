@@ -2,7 +2,7 @@
 
 ## Goals:
 
-1. **Offer an Alternative to Bitcoin** – While Bitcoin was a groundbreaking innovation, it's first-generation technology. The goal is to allow society to adopt a more efficient, environmentally friendly, and scalable alternative for everyday transactions as a semi-standard as a replacement for Bitcoin.
+1. **Offer an Alternative to Bitcoin** – While Bitcoin was a groundbreaking innovation, it's first-generation technology. The goal is to allow society to adopt a more efficient, environmentally friendly, and scalable alternative for everyday transactions as a semi-standard replacement for Bitcoin.
 2. **Universal Basic Income (UBI)** – The long-term objective is to distribute a basic living wage to anyone who opts in, paid in cryptocurrency.
 3. **Show Extreme Generosity Can Coexist with Wealth** – By embracing a system of wealth creation and sharing, we aim to demonstrate that financial success and generosity can thrive together.
 
