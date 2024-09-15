@@ -21,7 +21,7 @@
 2. **Prevent Boom and Bust Cycles** – By paying a monthly stipend to everyone in the cryptocurrency, demand is sustained over time, helping to prevent rapid growth and crash cycles.
 3. **Leverage the Strengths of the Chosen Cryptocurrency** – The chosen cryptocurrency should be decentralized, have low transaction fees (or none), be environmentally friendly, and support a high number of transactions per second (TPS).
 4. **Low Market Cap is Critical for Growth** – Achieving exponential growth through the proposed milestones requires starting with a cryptocurrency that has a low market cap, as this allows for multiple 10x increases in value while staying grounded in reality. For example, **Nano (XNO)**, with a market cap of around $120 million USD, offers the ideal base for five successive 10x milestones and still be based in reality as compared to an alternative like Bitcoin today. **IOTA (MIOTA)**, while meeting many of the same requirements, has a market cap roughly 4x higher than Nano, providing less room for exponential growth but still remaining a viable option.
-5. **Lead by Example** – As the author, I will donate 100% of my holdings in the selected cryptocurrency to kickstart this initiative.
+5. **Lead by Example** – As the author, I will donate 100% of my holdings in the selected cryptocurrency to support this initiative.
 
 ## Milestones for the Future:
 
