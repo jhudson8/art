@@ -34,7 +34,7 @@
 
 ## Conclusion:
 
-This plan provides a step-by-step framework for transforming a cryptocurrency into a tool for financial inclusion, sustainability, and wealth redistribution. Valuation cannot be dictated but rather emerges organically from collective belief. By proposing a novel idea with a mechanism for reinforcing value through achieving challenging milestones, we aim to guide a critical mass of people towards a shared understanding of a reasonable trajectory for the cryptocurrency’s value. As the cryptocurrency has no intrinsic value, this collective perspective will be crucial for its success, potentially allowing the envisioned outcome to come to fruition. Through grassroots support, clear milestones, and transparency in donations and stipends, we can create a more equitable financial system.
+This plan provides a step-by-step framework for transforming a cryptocurrency into a tool for financial inclusion, sustainability, and wealth redistribution. Valuation cannot be dictated but rather emerges organically from collective belief. By proposing a novel idea with a mechanism for reinforcing value through achieving challenging milestones and a calculatable future trajectory after initial growth, we aim to guide a critical mass of people towards a shared understanding of how to value the cryptocurrency in the future. As the cryptocurrency has no intrinsic value, this collective perspective will be crucial for its success, potentially allowing the envisioned outcome to come to fruition. Through grassroots support, clear milestones, and transparency in donations and stipends, we can create a more equitable financial system.
 
 ## Suggested Cryptocurrencies:
 
