@@ -90,7 +90,7 @@ ART becomes an allowed means of payment in countries of large prominence in addi
 
 # Conclusion
 
-ART is a fictional digital currency but the suspension of disbelief for this story requires specifics so that a large number of people can agree.
+ART is a fictional digital currency but the suspension of disbelief for this story requires specifics so that a large number of people can agree. The specifics should not be mentioned until the end so the idea can be focused on rather than the details.
 
 As the author, I have no affiliation with this digital currency and would donate 100% of what I have. I only pick this because I think it is the best choice and specifics are required. I give this idea away freely. If you find this to be a compeeling story, change the currency as you see fit but please be specific and identify the reasons for your choice.
 
