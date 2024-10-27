@@ -24,7 +24,7 @@ Would this picture be worth \$100,000 if the movie that was created had a profou
 
 2. If you were given this art for \$1.00, would you be happy giving \$90,000 to those less fortunate knowing that you still earned \$10,000?
 
-If the answer to any of these questions is no, you should leave now, this is not a movie for you
+If the answer to any of these questions is no, this is not a movie for you
 
 ---
 
