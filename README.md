@@ -20,7 +20,7 @@ Would this picture be worth \$100,000 if the movie that was created had a profou
 
 3 questions to answer to see if this movie is not worth your time:
 
-1. Do you agree that the value of art is solely based on a shared belief that others will associate the same value as you do in the future?
+1. Do you agree that the value of art is solely based on a shared belief that others will associate the same value as you do in the future and that, if a movie were produced featuring this art, value would be created from nothing?
 
 2. Do you agree that there would be a greater chance of the value of this picture being realized because the movie is suggesting a specific but reasonable value at each milestone so that a large number of people can agree?
 
@@ -42,7 +42,7 @@ A digitial currency's greatest weakness, like art, is also it's greatest strengt
 
 This is a movie about a fictional digital currency called ART. It is of high quality but not easily purchased and has no more value than the drawing shown before.
 
-Like the drawing before, the director gives 5 stpes, each with a 10x increase in value if they are reached. With intestellar-like flashbacks showing how these steps were reached. Each milestone is very difficult but, in movie logic, possible given the success of the previous steps.
+Like the drawing before, the director gives 5 steps, each with a 10x increase in value if they are reached. With intestellar-like flashbacks showing how these steps were reached. Each milestone is very difficult but, in movie logic, possible given the success of the previous steps.
 
 ### Step 1: ART is now worth $10
 
