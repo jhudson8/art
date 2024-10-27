@@ -66,7 +66,7 @@ Like the drawing before, the director gives 5 steps, each with a 10x increase in
 
 ---
 
-These steps dictate how value was created from nothing but now how the value is maintained. Exponential growth is no longer possible and now the value of ART will increase in value at a rate matching average global inflation so that value in the future can be calculated and agreed upon by a critical mass of people.
+These steps dictate how value was created from nothing but not how the value is maintained. Exponential growth is no longer possible and now the value of ART will increase in value at a rate matching average global inflation so that value in the future can be calculated and agreed upon by a critical mass of people.
 
 After step 5 payments begin monthly to anyone that registered it but based on a future value 4 milestones away. This ensures there is enough to pay a large amount of people for 80 - 100 years. It will initially be meaningful for citizens of 3rd world countries who are in need of the most help. For example, a monthly payment of a future $1,000 per month would be $1 per month today. As the future stages are not based on exponential growth of ART they will take decades to reach.
 
