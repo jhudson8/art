@@ -1,6 +1,6 @@
 # Working movie title "Art"
 
-This movie is about a thought provoking director creating a movie about making great social change. It requires a suspension of disbelief to hear this story so we are about to set the stage.
+This movie is about a thought provoking director creating a movie about making great social change. It requires a belief in the "movie logic" to hear this story so we are about to set the stage.
 
 ![image](./art.jpeg)
 
@@ -18,13 +18,11 @@ Would this picture be worth \$100,000 if the movie that was created had a profou
 
 ---
 
-3 questions to answer to see if this movie is not worth your time:
+3 questions to answer to see if this movie idea is not worth your time:
 
 1. Do you agree that the value of art is solely based on a shared belief that others will associate the same value as you do in the future and that, if a movie were produced featuring this art, value would be created from nothing?
 
-2. Do you agree that there would be a greater chance of the value of this picture being realized because the movie is suggesting a specific but reasonable value at each milestone so that a large number of people can agree?
-
-3. If you were given this art for \$1.00, would you be happy giving \$90,000 to those less fortunate knowing that you still earned \$10,000?
+2. If you were given this art for \$1.00, would you be happy giving \$90,000 to those less fortunate knowing that you still earned \$10,000?
 
 If the answer to any of these questions is no, you should leave now, this is not a movie for you
 
@@ -36,7 +34,7 @@ The goal of this director's movie is to create a new social services program wit
 
 # Movie title for this director's movie: "Blueprint for a Better World"
 
-Like the art shown eariler, the movie attempts to assign hard to reach milestones to increase the value of something with no value so that generous people who believe in the movie when it has no value can give greatly when they are rewarded greatly.
+Like the art shown eariler, the movie attempts to assign hard to reach milestones to increase the value of something with no value so that generous people who believed when it had no value can give greatly when it has great value.
 
 A digitial currency's greatest weakness, like art, is also it's greatest strength. It has no value outside of a trust that others will value it the same way.
 
@@ -99,4 +97,3 @@ As the author, I have no affiliation with this digital currency and would donate
 NANO (XNO) is a digital currency that was distributed ethically, is eco friendly, decentralized, has no transaction fees, has almost instant transaction times, and only focuses on payments allowing future debate on smart contracts and other features. It is worth $.80 today and has a low market cap (1/1000th of Bitcoin's) so 4 10x milestones are possible before values even become something that has never been achieved before. In addition to creating a social service program, this movie also attempts to change the course of current adoption of a technology that is widely regarded as sub-optimal (Bitcon) with a much better alternative.
 
 I also use USD for example reference but the specific anchor currency is not important so that can be changed as well.
-
