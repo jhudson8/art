@@ -1,6 +1,6 @@
 # Working movie title "Art"
 
-This movie is about a thought provoking director creating a movie about making great social change. It requires a suspension of disbelief to hear this story.
+This movie is about a thought provoking director creating a movie about making great social change. It requires a suspension of disbelief to hear this story so we are about to set the stage.
 
 ![image](./art.jpeg)
 
