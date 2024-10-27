@@ -36,7 +36,7 @@ The goal of this director's movie is to create a new social services program wit
 
 Like the art shown eariler, the movie attempts to assign hard to reach milestones to increase the value of something with no value so that generous people who believed when it had no value can give greatly when it has great value.
 
-A digitial currency's greatest weakness, like art, is also it's greatest strength. It has no value outside of a trust that others will value it the same way.
+A digitial currency's greatest weakness, like art, is also it's greatest strength. It's value is only based on mutual trust and understanding.
 
 This is a movie about a fictional digital currency called ART. It is of high quality but not easily purchased and has no more value than the drawing shown before.
 
