@@ -1,6 +1,6 @@
 # Working movie title "Art"
 
-This movie is about a thought provoking director creating a movie about making great social change. It requires a belief in the "movie logic" to hear this story so we are about to set the stage.
+This movie is about a thought provoking director wanting to use his notoriety to create a movie about making great social change. It requires a belief in the "movie logic" to hear this story so we are about to set the stage.
 
 ![image](./art.jpeg)
 
