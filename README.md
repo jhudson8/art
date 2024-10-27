@@ -28,7 +28,7 @@ If the answer to any of these questions is no, this is not a movie for you
 
 ---
 
-This is a story about a thought provoking director who wanted to use his notoriety to make mass social change. It is set 20 years in a future where this movie was sucessful. The flashbacks focus on a set of people who agreed to the 2 questions above and how their future changed as a result. Remember, the story doesn't have to be realistic, just a compelling story.
+This is just a fictional story about a thought provoking director who wanted to use his notoriety to make mass social change. It is set 20 years in a future where this movie was sucessful. The flashbacks focus on a set of people who agreed to the 2 questions above and how their future changed as a result. Remember, the story doesn't have to be realistic, just a compelling story.
 
 The goal of this director's movie is to create a new social services program with no debt funded by people who believe that a responsibility of great wealth is great generosity.
 
