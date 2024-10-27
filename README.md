@@ -1,44 +1,102 @@
-# Vision for a Bold Cryptocurrency Future
+# Working movie title "Art"
 
-## Goals:
+This movie is about a thought provoking director creating a movie about making great social change. It requires a suspension of disbelief to hear this story.
 
-1. **Offer an Alternative to Bitcoin** – While Bitcoin was a groundbreaking innovation, it's first-generation technology. The goal is to allow society to adopt a more efficient, environmentally friendly, and scalable alternative for everyday transactions as a semi-standard replacement for Bitcoin.
-2. **Universal Basic Income (UBI)** – The long-term objective is to distribute a basic living wage to anyone who opts in, paid in cryptocurrency.
-3. **Show Extreme Generosity Can Coexist with Wealth** – By embracing a system of wealth creation and sharing, we aim to demonstrate that financial success and generosity can thrive together.
+![image](./art.jpeg)
 
-## Core Beliefs:
+this picture is not worth the paper it is printed on, to be generous, we'll say \$1.00
 
-1. **Value from Belief** – Cryptocurrencies, having no intrinsic value, achieve high valuations purely based on the collective belief of the community. The chosen cryptocurrency’s value will rely entirely on the strength of this shared conviction.
-2. **Valuation by Consensus** – If a critical mass of people agrees on the cryptocurrency's value based on reasonable conditions and calculations, that value can become real. Bitcoin’s success has demonstrated how collective belief can drive astronomical valuations, making future milestones plausible and achievable.
-3. **Adoption through Incentives** – Providing free value to everyone will incentivize wallet creation and network activity, enhancing the cryptocurrency's utility.
-4. **A Novel Idea Can Attract Support** – If a cryptocurrency aligns wealth creation with environmental sustainability and altruistic outcomes, people will rally around it.
-5. **Transparency Drives Trust** – The health of the movement will be publicly tracked, showing who is donating, how much is being donated, and who is registering to receive the stipend. This transparency will reinforce trust and participation.
-6. **Grassroots Power** – Movements like GameStop have shown the power of passionate communities. This cryptocurrency movement aims to replicate that success by building a strong, dedicated user base.
+Would this picture be worth \$10 if you thought it might be a meaningful picture one day?
 
-## How to Achieve This:
+Would this picture be worth \$100 if you thought it might be featured in a high profile movie?
 
-1. **Clear Milestones for Valuation** – A roadmap will outline the cryptocurrency’s value growth based on milestones reflecting increased utility and network participation. These milestones are considered reasonable because Bitcoin’s current valuation demonstrates that such market caps are achievable.
-2. **Prevent Boom and Bust Cycles** – By paying a monthly stipend to everyone in the cryptocurrency, demand is sustained over time, helping to prevent rapid growth and crash cycles.
-3. **Leverage the Strengths of the Chosen Cryptocurrency** – The chosen cryptocurrency should be decentralized, have low transaction fees (or none), be environmentally friendly, and support a high number of transactions per second (TPS).
-4. **Low Market Cap is Critical for Growth** – Achieving exponential growth through the proposed milestones requires starting with a cryptocurrency that has a low market cap, as this allows for multiple 10x increases in value while staying grounded in reality. For example, **Nano (XNO)**, with a market cap of around $120 million USD, offers the ideal base for five successive 10x milestones and still be based in reality as compared to an alternative like Bitcoin today. **IOTA (MIOTA)**, while meeting many of the same requirements, has a market cap roughly 4x higher than Nano, providing less room for exponential growth but still remaining a viable option.
-5. **Lead by Example** – As the author, I will donate 100% of my holdings in the selected cryptocurrency to support this initiative.
+Would this picture be worth \$1,000 if you found that a movie script was being created that featured this picture?
 
-## Milestones for the Future:
+Would this picture be worth \$10,000 if you knew the movie was being directed by Christopher Nolan?
 
-1. **10x Growth to $1.2B Market Cap** – The first major increase in value, driven by early adopters who believe in and spread the idea.
-2. **10x Growth to $12B Market Cap** – Supporters commit to donating 90% of their holdings, but only after the cryptocurrency’s valuation has increased by 20x, ensuring that their initial investment has at least doubled. Users register to become donators in a simple way, such as commenting on a public post on Twitter or Reddit. When registering to donate, users agree to hold onto their cryptocurrency for at least one year or until donations are collected. This milestone ends when a critical mass of users has registered informally.
-3. **10x Growth to $120B Market Cap** – Establish a more formal organization to track donation pledges and manage UBI registrations. This organization will assist with wallets, prevent fraud, and handle user onboarding. **Donations are still not collected at this stage**, but the process of tracking donations and ensuring transparency begins in earnest. The milestone ends once formal registration has gained significant adoption.
-4. **10x Growth to $1.2T Market Cap (equal to Bitcoin 2024)** – Form a grassroots organization to transparently manage and distribute donations, ensuring the foundation for paying out the cryptocurrency UBI is solid. **Donations will only be collected after this milestone**, ensuring the infrastructure is in place to handle them. By this point, early adopters will have been greatly rewarded for their risk, and the incentive to donate will be much higher to sustain the movement.
-5. **10x Growth to $12T Market Cap** – Once a critical mass of donations (e.g., 30% of the cryptocurrency’s market cap) is collected, the infrastructure to begin paying stipends will be prepared.
-6. **Stable Growth** – At this stage, the focus shifts from exponential growth to long-term sustainability. The cryptocurrency’s value growth will be aligned with global average inflation rates. This predictable growth rate helps a large group of people come to a shared understanding of the cryptocurrency’s value, ensuring stability and long-term viability. The monthly stipend will begin modestly, likely benefiting populations in developing countries first. Over time, the cryptocurrency’s value will grow steadily, contributing to global wealth redistribution and demonstrating the role of generosity in a successful society.
+Would this picture be worth \$100,000 if the movie that was created had a profound impact on society?
 
-## Conclusion:
+---
 
-This plan provides a step-by-step framework for transforming a cryptocurrency into a tool for financial inclusion, sustainability, and wealth redistribution. Valuation cannot be dictated but rather emerges organically from collective belief. By proposing a novel idea with a mechanism for reinforcing value through achieving challenging milestones and a calculable future trajectory after initial growth with a repetitive monthly reiforcement of value paid out from donations, we aim to guide a critical mass of people towards a shared understanding of how to value the cryptocurrency in the future. As the cryptocurrency has no intrinsic value, this collective perspective will be crucial for its success, potentially allowing the envisioned outcome to come to fruition. Through grassroots support, clear milestones, and transparency in donations and stipends, we can create a more equitable financial system.
+3 questions to answer to see if this movie is not worth your time:
 
-## Suggested Cryptocurrencies:
+1. Do you agree that the value of art is solely based on a shared belief that others will associate the same value as you do in the future?
 
-For this vision to succeed, the chosen cryptocurrency must be eco-friendly, decentralized, have a relatively low market cap (to allow for growth), high transaction throughput (TPS), and nearly instant transaction confirmations. Two cryptocurrencies that meet these criteria are **Nano (XNO)** and **IOTA (MIOTA)**:
+2. Do you agree that there would be a greater chance of the value of this picture being realized because the movie is suggesting a specific but reasonable value at each milestone so that a large number of people can agree?
 
-- **Nano (XNO):** Nano offers instant, fee-less transactions, a low market cap, and a focus solely on payments. Its ethical distribution and environmentally friendly nature make it an ideal candidate for this movement. It does not support smart contracts, which could be advantageous for focusing the utility discussion.
-- **IOTA (MIOTA):** IOTA is another option, though its market cap is about 4x that of Nano, offering less initial exponential growth potential. It also supports smart contracts, which adds complexity but still fits many of the necessary criteria for this initiative. Its support for smart contracts could be a positive aspect for additional functionality with the cryptocurrency.
+3. If you were given this art for \$1.00, would you be happy giving \$90,000 to those less fortunate knowing that you still earned \$10,000?
+
+If the answer to any of these questions is no, you should leave now, this is not a movie for you
+
+---
+
+This is a story about a thought provoking director who wanted to use his notoriety to make mass social change. It is set 20 years in a future where this movie was sucessful. The flashbacks focus on a set of people who agreed to the 3 questions above and how their future changed as a result. Remember, the story doesn't have to be realistic, just a compelling story.
+
+The goal of this director's movie is to create a new social services program with no debt funded by people who believe that a responsibility of great wealth is great generosity.
+
+# Movie title for this director's movie: "Blueprint for a Better World"
+
+Like the art shown eariler, the movie attempts to assign hard to reach milestones to increase the value of something with no value so that generous people who believe in the movie when it has no value can give greatly when they are rewarded greatly.
+
+A digitial currency's greatest weakness, like art, is also it's greatest strength. It has no value outside of a trust that others will value it the same way.
+
+This is a movie about a fictional digital currency called ART. It is of high quality but not easily purchased and has no more value than the drawing shown before.
+
+Like the drawing before, the director gives 5 stpes, each with a 10x increase in value if they are reached. With intestellar-like flashbacks showing how these steps were reached. Each milestone is very difficult but, in movie logic, possible given the success of the previous steps.
+
+### Step 1: ART is now worth $10
+
+- An idea for a movie discussing the novelty of ART being the focus of a movie is widely discussed
+
+### Step 2: ART is now worth $100
+
+- A high profile movie script is created and a production release of the movie is announced.
+
+### Step 3: ART is now worth $1,000
+
+- Have everyone who is generous when they have been rewarded greatly publicly commit to giving 90% of ART that they own to a social service program. And anyone that wants to receive a social security payment create an ART wallet and publicly register for it. ART only reaches it's next complete value when it is publicly agreed that a critical mass of people have committed to the social service program.
+
+### Step 4: ART is now worth $10,000
+
+- Somehow, an organization is created to accept contributions and make payments in a trusted way and all other issues, such as fraud, are solved.
+
+### Step 5: ART is now worth $100,000
+
+- Everyone that had committed to donate does so at this time. The value is only realized after a critical mass of donations are made. If the value never reaches $100,000, all the donations are returned after a certain period of time.
+
+---
+
+These steps dictate how value was created from nothing but now how the value is maintained. Exponential growth is no longer possible and now the value of ART will increase in value at a rate matching average global inflation so that value in the future can be calculated and agreed upon by a critical mass of people.
+
+After step 5 payments begin monthly to anyone that registered it but based on a future value 4 milestones away. This ensures there is enough to pay a large amount of people for 80 - 100 years. It will initially be meaningful for citizens of 3rd world countries who are in need of the most help. For example, a monthly payment of a future $1,000 per month would be $1 per month today. As the future stages are not based on exponential growth of ART they will take decades to reach.
+
+## Future Milestones
+
+### Step 6
+
+Small governments with unpredictable currencies adopt ART as their soverign currency because all previous milestones have been achieved and there is a critical mass of global trust in ART
+
+### Step 7
+
+ART is adopted by credit cards companies that already have a wide global reach and digital payment processing capabilities and point of sale systems so that it is easy to spend the social security payments
+
+### Step 8
+
+ART is purhased by major governments (similar to gold) as a storage of value
+
+### Step 9
+
+ART becomes an allowed means of payment in countries of large prominence in addition to their own soverign currency
+
+---
+
+# Conclusion
+
+ART is a fictional digital currency but the suspension of disbelief for this story requires specifics so that a large number of people can agree.
+
+As the author, I have no affiliation with this digital currency and would donate 100% of what I have. I only pick this because I think it is the best choice and specifics are required. I give this idea away freely. If you find this to be a compeeling story, change the currency as you see fit but please be specific and identify the reasons for your choice.
+
+NANO (XNO) is a digital currency that was distributed ethically, is eco friendly, decentralized, has no transaction fees, has almost instant transaction times, and only focuses on payments allowing future debate on smart contracts and other features. It is worth $.80 today and has a low market cap (1/1000th of Bitcoin's) so 4 10x milestones are possible before values even become something that has never been achieved before. In addition to creating a social service program, this movie also attempts to change the course of current adoption of a technology that is widely regarded as sub-optimal (Bitcon) with a much better alternative.
+
+I also use USD for example reference but the specific anchor currency is not important so that can be changed as well.
+
