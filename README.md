@@ -28,7 +28,7 @@ If the answer to any of these questions is no, you should leave now, this is not
 
 ---
 
-This is a story about a thought provoking director who wanted to use his notoriety to make mass social change. It is set 20 years in a future where this movie was sucessful. The flashbacks focus on a set of people who agreed to the 3 questions above and how their future changed as a result. Remember, the story doesn't have to be realistic, just a compelling story.
+This is a story about a thought provoking director who wanted to use his notoriety to make mass social change. It is set 20 years in a future where this movie was sucessful. The flashbacks focus on a set of people who agreed to the 2 questions above and how their future changed as a result. Remember, the story doesn't have to be realistic, just a compelling story.
 
 The goal of this director's movie is to create a new social services program with no debt funded by people who believe that a responsibility of great wealth is great generosity.
 
@@ -52,21 +52,21 @@ Like the drawing before, the director gives 5 steps, each with a 10x increase in
 
 ### Step 3: ART is now worth $1,000
 
-- Have everyone who is generous when they have been rewarded greatly publicly commit to giving 90% of ART that they own to a social service program. And anyone that wants to receive a social security payment create an ART wallet and publicly register for it. ART only reaches it's next complete value when it is publicly agreed that a critical mass of people have committed to the social service program.
+- Have everyone who is generous when they have have of ART publicly commit to giving 90% of what they own to a social service program. And anyone that wants to receive a welfare payment create an ART wallet and publicly register for it. ART only reaches this full value when it is publicly agreed that a large number of people have committed.
 
 ### Step 4: ART is now worth $10,000
 
-- Somehow, an organization is created to accept contributions and make payments in a trusted way and all other issues, such as fraud, are solved.
+- Somehow, an organization is created to accept contributions and make payments in a trusted way and all other issues, such as fraud and identity theft, are solved.
 
 ### Step 5: ART is now worth $100,000
 
-- Everyone that had committed to donate does so at this time. The value is only realized after a critical mass of donations are made. If the value never reaches $100,000, all the donations are returned after a certain period of time.
+- Everyone that had committed to donate does so at this time. The full value is only realized after enough donations are made for payments to be sustained. If the value never reaches $100,000, all the donations are returned after a certain period of time.
 
 ---
 
 These steps dictate how value was created from nothing but not how the value is maintained. Exponential growth is no longer possible and now the value of ART will increase in value at a rate matching average global inflation so that value in the future can be calculated and agreed upon by a critical mass of people.
 
-After step 5 payments begin monthly to anyone that registered it but based on a future value 4 milestones away. This ensures there is enough to pay a large amount of people for 80 - 100 years. It will initially be meaningful for citizens of 3rd world countries who are in need of the most help. For example, a monthly payment of a future $1,000 per month would be $1 per month today. As the future stages are not based on exponential growth of ART they will take decades to reach.
+After step 5 payments begin monthly to anyone that registered it but based on a future value 4 milestones away. This ensures there is enough to pay a large amount of people for 80 - 100 years. It will initially be meaningful for citizens of 3rd world countries who are in need of the most help but is the necessary engine to ensure the longevity of value. Over time, it will be meaningful to all. For example, a monthly payment of a future $1,000 per month would be $1 per month today. As the future stages are not based on exponential growth of ART they will take decades to reach.
 
 ## Future Milestones
 
