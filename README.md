@@ -18,9 +18,9 @@ Would this picture be worth \$100,000 if the movie that was created had a profou
 
 ---
 
-3 questions to answer to see if this movie idea is not worth your time:
+2 questions to answer to see if this movie idea is not worth your time:
 
-1. Do you agree that the value of art is solely based on a shared belief that others will associate the same value as you do in the future and that, if a movie were produced featuring this art, value would be created from nothing?
+1. Do you agree that the value of art is solely based on a shared belief that others will value it in the same way in the future and that, if a movie were produced featuring this art, value would have been created from nothing?
 
 2. If you were given this art for \$1.00, would you be happy giving \$90,000 to those less fortunate knowing that you still earned \$10,000?
 
