@@ -26,9 +26,9 @@ These questions frame _ART_—a fictional currency and social experiment brought
 
 ## Concept
 
-In _"Blueprint for a Better World,"_ a fictional director emerges as both the architect and main figure of an ambitious social experiment. His goal? To turn an object of no inherent worth—_ART_, a fictional digital currency—into a transformative global resource that funds social security for those in need, using only the power of collective trust and generosity.
+In the film _"Blueprint for a Better Future,"_ a fictional director emerges as both the architect and main figure of an ambitious social experiment. His goal? To turn an object of no inherent worth—_ART_, a fictional digital currency—into a transformative global resource that funds social security for those in need, using only the power of collective trust and generosity.
 
-The film, set twenty years into a future shaped by his success, interweaves flashbacks of his journey as he builds _ART_’s value from $1 to $100,000, step by step. With each milestone, the director draws people in, challenging them to see _ART_ not as a typical currency but as a potential lifeline for millions. In his experiment, _ART_ evolves into a vehicle for sustainable social impact, guided by a director who redefines the roles of art, wealth, and belief.
+The movie, set twenty years into a future shaped by this director’s success, interweaves flashbacks of his journey as he builds _ART_’s value from $1 to $100,000, step by step. With each milestone, the director draws people in, challenging them to see _ART_ not as a typical currency but as a potential lifeline for millions. In his experiment, _ART_ evolves into a vehicle for sustainable social impact, guided by a director who redefines the roles of art, wealth, and belief.
 
 ---
 
